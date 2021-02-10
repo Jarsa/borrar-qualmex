@@ -7,3 +7,8 @@
 	path = knowledge
 	url = git@github.com:oca/knowledge.git
 	branch = 13.0
+
+[submodule "crm"]
+	path = crm
+	url = git@github.com:oca/crm.git
+	branch = 13.0
