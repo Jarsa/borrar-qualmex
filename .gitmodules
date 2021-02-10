@@ -2,3 +2,8 @@
 	path = management-system
 	url = git@github.com:OCA/management-system.git
 	branch = 13.0
+
+[submodule "knowledge"]
+	path = knowledge
+	url = git@github.com:oca/knowledge.git
+	branch = 13.0
